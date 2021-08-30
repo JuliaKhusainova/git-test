@@ -4,3 +4,6 @@ body {
 p {
     text-transform: uppercase;
 }
+.step {
+    font-size: 50px;
+}
